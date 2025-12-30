@@ -20,7 +20,8 @@ Alongside my professional role, I’m actively transitioning into web developmen
 
 ## 📅 Progress Log
 Day 1 – Repository setup and planning  
-Day 2 – JavaScript fundamentals revision (coming soon)
+Day 2 – JavaScript fundamentals revision
+Day 3 – loops-and-dom-project
 
 ---
 
