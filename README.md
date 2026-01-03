@@ -24,6 +24,7 @@ Day 2 – JavaScript fundamentals revision
 Day 3 – loops-and-dom-project
 Day 4 - Refactored guess-the-number game and added game logic
 Day 5 - Implemented modal window with keyboard and overlay controls
+Day 6 - Built Pig Game using JavaScript DOM manipulation
 
 ---
 
