@@ -1,31 +1,101 @@
-# Web Development Journey 🚀
+# 🚀 Web Development Journey
 
-Hi, I’m Md Asad Uz Zaman 👋  
-A Computer Science Engineering graduate currently working with the India Meteorological Department (IMD).
+Hi, I’m **Md Asad Uz Zaman** 👋  
+A Computer Science Engineering graduate currently working as a **Scientific Assistant at the India Meteorological Department (IMD)** and actively transitioning into **JavaScript / Node.js web development**.
 
-Alongside my professional role, I’m actively transitioning into web development by building projects and revisiting core concepts.
-
-## 🔧 Tech Stack
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Express (learning)
-
-## 📌 Purpose of this Repository
-- Document daily learning
-- Build small practical projects
-- Strengthen fundamentals
-- Stay consistent and accountable
-
-## 📅 Progress Log
-Day 1 – Repository setup and planning  
-Day 2 – JavaScript fundamentals revision 
-Day 3 – loops-and-dom-project
-Day 4 - Refactored guess-the-number game and added game logic
-Day 5 - Implemented modal window with keyboard and overlay controls
-Day 6 - Built Pig Game using JavaScript DOM manipulation
+This repository documents my **day-by-day learning, original practice code, and mini-projects** as I build strong foundations and real-world development skills.
 
 ---
 
-📌 *Learning in public. Improving every day.*
+## 🎯 Current Focus
+- Core JavaScript concepts and internals  
+- Modern JavaScript features and best practices  
+- DOM manipulation and browser-based projects  
+- Writing clean, readable, and maintainable code  
+- Building consistency through daily hands-on practice  
+
+---
+
+## 🧰 Tech Stack
+- **Languages:** JavaScript (ES6+)  
+- **Frontend:** HTML5, CSS3, DOM Manipulation  
+- **Backend (learning):** Node.js, Express.js  
+- **Database (learning):** MongoDB  
+- **Tools:** Git, GitHub, VS Code, Postman  
+
+---
+
+## 📂 Repository Structure
+web-dev-journey/
+│
+├── day-02-javascript-basics
+├── day-03-loops-and-dom-project
+├── day-05-modal-window-dom
+├── day-06-pig-game-dom
+├── day-08-js-core-behaviour
+├── day-09-modern-javascript-practice
+
+
+## 🛠️ Featured Work
+
+### 🎮 Pig Game – DOM Project
+- Two-player dice game built with JavaScript  
+- Game state management, event handling, and dynamic UI updates  
+- Player switching, score logic, hold functionality, and win conditions  
+- Structured using reusable functions for maintainability  
+
+---
+
+### 🪟 Modal Window UI Component
+- Modal open/close functionality  
+- Overlay click and Escape key handling  
+- Focus on user interaction, accessibility, and clean UI behavior  
+
+---
+
+### ⚙️ JavaScript Core & Modern Concepts Practice
+- Scoping and scope chain  
+- Hoisting and Temporal Dead Zone (TDZ)  
+- `this` keyword behavior  
+- Regular vs arrow functions  
+- Destructuring, spread, and rest operators  
+- Optional chaining and nullish coalescing  
+- Sets, maps, and modern iteration  
+- String utilities and formatting  
+- Primitive vs reference types  
+- Shallow vs deep copying of objects  
+
+---
+
+## 📅 Learning Log
+
+- **Day 1** – GitHub setup and learning plan  
+- **Day 2** – JavaScript fundamentals (functions, arrays, objects)  
+- **Day 3** – Loops + “Guess the Number” game  
+- **Day 4** – Refactoring, validation, and game logic improvement  
+- **Day 5** – Modal window with keyboard and overlay controls  
+- **Day 6** – Pig Game (full DOM-based project)  
+- **Day 7** – JavaScript engine, execution context, call stack, scope chain  
+- **Day 8** – JavaScript core behavior and internals  
+- **Day 9** – Modern JavaScript fundamentals with original examples  
+
+---
+
+## 🌍 Career Goal
+
+Preparing for opportunities as a:
+- **JavaScript Developer**  
+- **Node.js Developer**  
+- **Web / Frontend Developer**
+
+Targeting **remote roles and Dubai-based opportunities**.
+
+---
+
+## 🔗 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/mdasaduzzaman92  
+- **GitHub:** https://github.com/mdasaduzzaman92  
+
+📌 *This repository reflects continuous learning, original practice, and progressive project building.*
+Each folder represents a focused learning day or mini-project.
+
