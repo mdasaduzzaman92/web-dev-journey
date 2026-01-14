@@ -34,6 +34,7 @@ web-dev-journey/
 ├── day-06-pig-game-dom
 ├── day-08-js-core-behaviour
 ├── day-09-modern-javascript-practice
+├── day-10-functions-and-callbacks
 
 
 ## 🛠️ Featured Work
@@ -63,7 +64,10 @@ web-dev-journey/
 - Sets, maps, and modern iteration  
 - String utilities and formatting  
 - Primitive vs reference types  
-- Shallow vs deep copying of objects  
+- Shallow vs deep copying of objects
+- First-class functions and higher-order functions
+- Callback-based transformations
+- Function parameters and argument behavior  
 
 ---
 
@@ -77,7 +81,8 @@ web-dev-journey/
 - **Day 6** – Pig Game (full DOM-based project)  
 - **Day 7** – JavaScript engine, execution context, call stack, scope chain  
 - **Day 8** – JavaScript core behavior and internals  
-- **Day 9** – Modern JavaScript fundamentals with original examples  
+- **Day 9** – Modern JavaScript fundamentals with original examples
+- **Day 10** – Default parameters, first-class functions, higher-order functions, callbacks, and function behavior 
 
 ---
 
