@@ -35,6 +35,7 @@ web-dev-journey/
 ├── day-08-js-core-behaviour
 ├── day-09-modern-javascript-practice
 ├── day-10-functions-and-callbacks
+├── day-11-call-bind-apply-iife
 
 
 ## 🛠️ Featured Work
@@ -67,7 +68,10 @@ web-dev-journey/
 - Shallow vs deep copying of objects
 - First-class functions and higher-order functions
 - Callback-based transformations
-- Function parameters and argument behavior  
+- Function parameters and argument behavior
+- call, apply, and bind methods  
+- Function borrowing and dynamic this binding  
+- Partial application and higher-order functions  
 
 ---
 
@@ -82,7 +86,8 @@ web-dev-journey/
 - **Day 7** – JavaScript engine, execution context, call stack, scope chain  
 - **Day 8** – JavaScript core behavior and internals  
 - **Day 9** – Modern JavaScript fundamentals with original examples
-- **Day 10** – Default parameters, first-class functions, higher-order functions, callbacks, and function behavior 
+- **Day 10** – Default parameters, first-class functions, higher-order functions, callbacks, and function behavior
+- **Day 11** – call, apply, bind, event handler binding, and advanced function patterns
 
 ---
 
