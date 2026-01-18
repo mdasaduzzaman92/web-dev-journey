@@ -36,7 +36,7 @@ web-dev-journey/
 ├── day-09-modern-javascript-practice
 ├── day-10-functions-and-callbacks
 ├── day-11-call-bind-apply-iife
-
+├── day-12-closures
 
 ## 🛠️ Featured Work
 
@@ -71,7 +71,12 @@ web-dev-journey/
 - Function parameters and argument behavior
 - call, apply, and bind methods  
 - Function borrowing and dynamic this binding  
-- Partial application and higher-order functions  
+- Partial application and higher-order functions
+- Implemented closure-based counter using returned functions
+- Explored how functions retain access to outer variables after execution
+- Practiced reassigning functions while preserving different lexical environments
+- Built asynchronous closure examples using setTimeout
+- Strengthened understanding of execution context, memory, and scope chain
 
 ---
 
@@ -88,6 +93,7 @@ web-dev-journey/
 - **Day 9** – Modern JavaScript fundamentals with original examples
 - **Day 10** – Default parameters, first-class functions, higher-order functions, callbacks, and function behavior
 - **Day 11** – call, apply, bind, event handler binding, and advanced function patterns
+- **Day 12** – Closures & Lexical Scope
 
 ---
 
