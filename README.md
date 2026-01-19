@@ -37,6 +37,7 @@ web-dev-journey/
 ├── day-10-functions-and-callbacks
 ├── day-11-call-bind-apply-iife
 ├── day-12-closures
+├── day-12-array-fundamentals
 
 ## 🛠️ Featured Work
 
@@ -77,6 +78,11 @@ web-dev-journey/
 - Practiced reassigning functions while preserving different lexical environments
 - Built asynchronous closure examples using setTimeout
 - Strengthened understanding of execution context, memory, and scope chain
+- Core array methods: slice, splice, reverse, concat, join, at
+- Iteration: for...of, forEach
+- Map and Set traversal
+- Transaction-style data processing (deposits and withdrawals)
+- Foundations for building finance-style and dashboard applications
 
 ---
 
@@ -94,6 +100,7 @@ web-dev-journey/
 - **Day 10** – Default parameters, first-class functions, higher-order functions, callbacks, and function behavior
 - **Day 11** – call, apply, bind, event handler binding, and advanced function patterns
 - **Day 12** – Closures & Lexical Scope
+- **Day 13** - JavaScript array methods, iteration patterns, and transaction-style data handling (preparation for banking application)
 
 ---
 
