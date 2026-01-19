@@ -27,7 +27,7 @@ This repository documents my **day-by-day learning, original practice code, and 
 
 ## 📂 Repository Structure
 web-dev-journey/
-│
+│  
 ├── day-02-javascript-basics  
 ├── day-03-loops-and-dom-project  
 ├── day-05-modal-window-dom  
@@ -35,7 +35,7 @@ web-dev-journey/
 ├── day-08-js-core-behaviour  
 ├── day-09-modern-javascript-practice  
 ├── day-10-functions-and-callbacks  
-├── day-11-call-bind-apply-iife
+├── day-11-call-bind-apply-iife  
 ├── day-12-closures  
 ├── day-13-array-fundamentals  
 
