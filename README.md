@@ -28,17 +28,17 @@ Each folder represents a focused learning day or mini-project.
 
 web-dev-journey/
 │
-├── day-02-javascript-basics
-├── day-03-loops-and-dom-project
-├── day-05-modal-window-dom
-├── day-06-pig-game-dom
-├── day-08-js-core-behaviour
-├── day-09-modern-javascript-practice
-├── day-10-functions-and-callbacks
-├── day-11-call-bind-apply-iife
-├── day-12-closures
-├── day-13-array-fundamentals
-├── day-14-bankist-app
+├── day-02-javascript-basics  
+├── day-03-loops-and-dom-project  
+├── day-05-modal-window-dom  
+├── day-06-pig-game-dom  
+├── day-08-js-core-behaviour  
+├── day-09-modern-javascript-practice  
+├── day-10-functions-and-callbacks  
+├── day-11-call-bind-apply-iife  
+├── day-12-closures  
+├── day-13-array-fundamentals  
+├── day-14-bankist-app  
 
 🛠️ Featured Work
 🏦 Bankist App – Mini Banking Application (Day 14)
