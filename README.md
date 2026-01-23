@@ -41,6 +41,7 @@ web-dev-journey/
 ├── day-14-bankist-app  
 ├── day-15-Revision  
 ├── day-16-numbers-dates-intl-timers  
+├── day-17-bankist-app (Update 1)   
 
 🛠️ Featured Work  
 🏦 Bankist App – Mini Banking Application (Day 14)  
@@ -103,28 +104,54 @@ Dates and time handling
 Intl API (dates, currencies, formatting)  
 Timers and asynchronous behavior 
 
-📅 Learning Log
 
-Day 1 – GitHub setup and learning plan
-Day 2 – JavaScript fundamentals
-Day 3 – Loops + Guess the Number game
-Day 4 – Refactoring & logic improvements
-Day 5 – Modal window component
-Day 6 – Pig Game project
-Day 7 – JS engine, execution context, call stack
-Day 8 – JavaScript internals
-Day 9 – Modern JavaScript practice
-Day 10 – First-class functions & callbacks
-Day 11 – call, apply, bind, event binding
-Day 12 – Closures & lexical environment
-Day 13 – Array fundamentals & transaction-style logic
-Day 14 – Bankist App (mini banking system)
+🚀 Latest Update – Day 17
+
+The Bankist application has been enhanced with multiple real-world features to simulate a modern banking system.  
+  
+✨ New Features Added  
+Localized currency formatting using Intl.NumberFormat  
+Transaction dates with smart labels (Today, Yesterday, X days ago)  
+Real-time login date & time display  
+Session auto-logout timer for inactivity  
+Loan and transfer timestamps  
+Improved UI updates and data handling  
+  
+🧠 Concepts Implemented  
+Numbers & Math operations  
+JavaScript Dates & timestamps  
+Internationalization API (Intl)  
+Timers (setTimeout, setInterval)  
+Real-world state and UI synchronization  
+
+These improvements move the project closer to a production-style banking interface and strengthen practical JavaScript application skills.  
+
+
+📅 Learning Log  
+  
+Day 1 – GitHub setup and learning plan  
+Day 2 – JavaScript fundamentals  
+Day 3 – Loops + Guess the Number game  
+Day 4 – Refactoring & logic improvements  
+Day 5 – Modal window component  
+Day 6 – Pig Game project  
+Day 7 – JS engine, execution context, call stack  
+Day 8 – JavaScript internals  
+Day 9 – Modern JavaScript practice  
+Day 10 – First-class functions & callbacks  
+Day 11 – call, apply, bind, event binding  
+Day 12 – Closures & lexical environment  
+Day 13 – Array fundamentals & transaction-style logic  
+Day 14 – Bankist App (mini banking system)  
+Day 16 - Numbers, Dates, Intl and Timers  
+Day 17 - Bankist Project - Updated  
+
 
 🌍 Career Goal  
 
 Preparing for opportunities as a:  
 
-JavaScript Developer  
+JavaScript Developer    
 Node.js Developer  
 Web / Frontend Developer  
 Targeting remote roles and Dubai-based opportunities.  
