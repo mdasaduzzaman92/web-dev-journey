@@ -42,6 +42,7 @@ web-dev-journey/
 ├── day-15-Revision  
 ├── day-16-numbers-dates-intl-timers  
 ├── day-17-bankist-app (Update 1)   
+├── day-18-advanced-dom-manipulation   
 
 🛠️ Featured Work  
 🏦 Bankist App – Mini Banking Application (Day 14)  
@@ -145,6 +146,7 @@ Day 13 – Array fundamentals & transaction-style logic
 Day 14 – Bankist App (mini banking system)  
 Day 16 - Numbers, Dates, Intl and Timers  
 Day 17 - Bankist Project - Updated  
+Day 18 - JavaScript DOM Advanced features 
 
 
 🌍 Career Goal  
