@@ -10,6 +10,7 @@ This repository documents my day-by-day learning, original practice code, and re
 Core JavaScript concepts and internals  
 Modern JavaScript features and best practices  
 DOM manipulation and browser-based projects  
+Object-Oriented Programming in JavaScript  
 Writing clean, readable, and maintainable code  
 Structuring projects like real-world applications  
 Building consistency through daily hands-on practice  
@@ -43,6 +44,8 @@ web-dev-journey/
 ├── day-16-numbers-dates-intl-timers  
 ├── day-17-bankist-app (Update 1)   
 ├── day-18-advanced-dom-manipulation   
+├── day-19-javascript-oop  
+
 
 🛠️ Featured Work  
 🏦 Bankist App – Mini Banking Application (Day 14)  
@@ -103,10 +106,50 @@ Transaction-style data processing patterns
 Numbers and numeric operations  
 Dates and time handling  
 Intl API (dates, currencies, formatting)  
-Timers and asynchronous behavior 
+Timers and asynchronous behavior  
+Advanced DOM manipulation  
+
+🧱 JavaScript Object-Oriented Programming (Day 19)  
+
+Focused deep dive into how JavaScript works internally using OOP patterns.  
+  
+Concepts Practiced:  
+What OOP means in JavaScript  
+Constructor functions and the new operator  
+Prototypes and the prototype chain  
+Prototypal inheritance  
+Inheritance on built-in objects  
+ES6 classes  
+Getters and setters  
+Static methods  
+Object.create() pattern  
+
+Hands-on Implementation:  
+Building Person objects using constructor functions  
+Adding shared methods through prototypes  
+Creating Car objects with accelerate/brake behavior  
+Rebuilding the same logic using ES6 classes  
+Implementing getters/setters for controlled property access  
+
+This section strengthens my foundation for scalable application development and backend work with Node.js.  
 
 
-🚀 Latest Update – Day 17
+🚀 Latest Update – Day 19 - JavaScript Object-Oriented Programming  
+
+Started Object-Oriented Programming in JavaScript, understanding how objects, prototypes, and classes work under the hood.  
+  
+✨ Added:  
+Constructor functions & prototype methods  
+Prototype chain exploration  
+ES6 class-based design  
+Static methods  
+Getters and setters  
+Object.create() inheritance pattern  
+Multiple coding challenges  
+  
+This marks my transition from feature-based JavaScript to architecture-level JavaScript.  
+
+🚀 Recent Update – Day 17
 
 The Bankist application has been enhanced with multiple real-world features to simulate a modern banking system.  
   
@@ -146,7 +189,8 @@ Day 13 – Array fundamentals & transaction-style logic
 Day 14 – Bankist App (mini banking system)  
 Day 16 - Numbers, Dates, Intl and Timers  
 Day 17 - Bankist Project - Updated  
-Day 18 - JavaScript DOM Advanced features 
+Day 18 - JavaScript DOM Advanced features  
+Day 19 – JavaScript Object-Oriented Programming  
 
 
 🌍 Career Goal  
